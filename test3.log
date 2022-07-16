@@ -1,0 +1,26 @@
+INFO 2022-07-05 14:08:47,523 root the number entered by user id 3 and 6
+INFO 2022-07-05 14:32:47,869 root the number entered by user id 3 and 6
+INFO 2022-07-05 14:32:47,869 root we are into function
+INFO 2022-07-05 14:32:47,869 root we have completed a division operation
+INFO 2022-07-05 15:09:18,899 root the number entered by user id 3 and 0
+INFO 2022-07-05 15:09:18,899 root we are into function
+ERROR 2022-07-05 15:09:18,899 root division by zero
+Traceback (most recent call last):
+  File "C:\Users\Chinu\PycharmProjects\pythonProject\test3.py", line 8, in devide
+    div = a/b
+ZeroDivisionError: division by zero
+INFO 2022-07-05 15:16:26,110 root the number entered by user id 3 and 0
+INFO 2022-07-05 15:16:26,110 root we are into function
+ERROR 2022-07-05 15:16:26,110 root division by zero
+Traceback (most recent call last):
+  File "C:\Users\Chinu\PycharmProjects\pythonProject\test3.py", line 8, in devide
+    div = a/b
+ZeroDivisionError: division by zero
+INFO 2022-07-05 15:16:56,573 root the number entered by user id 3 and 9
+INFO 2022-07-05 15:16:56,573 root we are into function
+INFO 2022-07-05 15:16:56,573 root we have completed a division operation
+INFO 2022-07-05 15:16:56,573 root the result of code is 0.3333333333333333
+INFO 2022-07-05 15:18:56,131 root the number entered by user id 3 and 9
+INFO 2022-07-05 15:18:56,131 root we are into function
+INFO 2022-07-05 15:18:56,131 root we have completed a division operation
+INFO 2022-07-05 15:18:56,131 root the result of code is 0.3333333333333333
